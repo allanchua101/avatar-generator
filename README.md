@@ -2,9 +2,9 @@
 
 Random avatar generation using Avataaars Generator.
 
-### How to setup your own project.
-
-![Project Setup](https://github.com/allanchua101/avatar-generator/blob/main/assets/setup.png)
+ <p align="center">
+    <img src="https://github.com/allanchua101/avatar-generator/blob/main/assets/Avatar.png">
+ </p>
 
 ### Before you start
 
