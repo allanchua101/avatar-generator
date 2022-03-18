@@ -10,6 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "ascii-art": "^2.8.5",
+    "ascii-art-table": "^1.0.1",
+    "colors": "^1.4.0",
+    "install": "^0.13.0",
     "random-avatar-generator": "^2.0.0"
   }
 }
